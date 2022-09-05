@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author WLang
  */
 
 public class HelloWorld {
